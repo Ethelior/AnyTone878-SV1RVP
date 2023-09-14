@@ -1,5 +1,7 @@
 SOS, Αφού φορτώσετε τα αρχεία, θα πρέπει να προσθέσετε το διακριτικό σας σε 2 σημεία:
+
 Radio ID List
+
 APRS
 
 Υπάρχουν πάνω από 4000 αλλαγές σε όλες τις μνήμες και τις zones και όχι μόνο. Κάποιες από τις αλλαγές είναι:
@@ -33,7 +35,9 @@ APRS
 Προσθήκη του Αναμεταδότη R5b Βέροιας
 
 Δημιούργησα Roaming Zone ανά περιοχή αλλά και προς πιθανά ταξίδια από και προς την Αθήνα.
+
 Roaming Zone ανά περιοχή: Sterea Ellada 202 & 9 | Kenntriki & Dittiki Makedonia 202 & 9 | Peloponisos 202 & 9 | Thesalia 202 & 9 | Dodekanisa 202 & 9 | Hpeiros 202 & 9 | Thraki, Anatoliki Makedonia 202 & 9 | Aigeo 202 & 9 | Ionio 202 & 9 | Kriti 202 & 9 | Ellada 202 & 9.
+
 Roaming Zone ανά πιθανά ταξίδια: Athina – Thesaloniki 202 & 9 | Athina – Pirgos 202 & 9 | Athina – Kerkira 202 | Athina – Samos 202 & 9 | Athina – Evros 202 & 9 |  Athina – Kastorgia 202 & 9 | Athina – Ioannin 202 & 9.
 
 Το αρχείο περιλαμβάνει έως και σήμερα τις επαφές για Ευρώπη, Αυστραλία, Ν. Υόρκη
